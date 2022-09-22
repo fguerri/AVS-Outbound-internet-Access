@@ -15,7 +15,7 @@ This step-by-step guide assumes that the following resources have been already d
 
 The picture below shows how your environment should look like before you execute the steps described in this article.
 
-![figure1](media\figure1.png)
+![figure1](media/figure1.png)
 
 It is not required for the resources listed above to be in the same Azure subscription, nor in subscriptions associated to the same AAD tenant.
 
